@@ -1,0 +1,21 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "BDCustomTariff",
+    "scope": "/bd-custom-tariff/",
+    "display": "browser",
+    "start_url": "https://autonic-ltd.github.io/bd-custom-tariff/",
+    "short_name": "BDCustomTariff",
+    "theme_color": "transparent",
+    "description": "Bangladesh Custom Tariff Search Engine",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/bd-custom-tariff/favicon.ico",
+            "sizes": "16x16 32x32"
+        }
+    ]
+}
