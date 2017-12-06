@@ -6,10 +6,10 @@
     "display": "standalone",
     "start_url": "https://autonic-ltd.github.io/bd-custom-tariff/",
     "short_name": "Tariff",
-    "theme_color": "white",
+    "theme_color": "#feffbb",
     "description": "Bangladesh Custom Tariff Search Engine",
     "orientation": "portrait",
-    "background_color": "white",
+    "background_color": "#feffbb",
     "related_applications": [],
     "prefer_related_applications": false,
     "icons": [
