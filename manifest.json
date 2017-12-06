@@ -1,9 +1,9 @@
 {
     "dir": "ltr",
     "lang": "en",
-    "name": "BDCustomTariff",
+    "name": "BD Custom Tariff",
     "scope": "/bd-custom-tariff/",
-    "display": "browser",
+    "display": "standalone",
     "start_url": "https://autonic-ltd.github.io/bd-custom-tariff/",
     "short_name": "BDCustomTariff",
     "theme_color": "transparent",
@@ -14,8 +14,28 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "/images/bd-custom-tariff/favicon.ico",
+            "src": "favicon.ico",
             "sizes": "16x16 32x32"
+        },
+        {
+            "src": "favicon_48x48.ico",
+            "sizes": "48x48"
+        },
+        {
+            "src": "favicon_64x64.ico",
+            "sizes": "64x64"
+        },
+        {
+            "src": "favicon_128x128.ico",
+            "sizes": "128x128"
+        },
+        {
+            "src": "favicon_256x256.ico",
+            "sizes": "256x256"
+        },
+        {
+            "src": "logo_512x512.png",
+            "sizes": "512x512"
         }
     ]
 }
