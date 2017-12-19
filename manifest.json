@@ -1,11 +1,11 @@
 {
     "dir": "ltr",
     "lang": "en",
-    "name": "BD Custom Tariff",
-    "scope": "/bd-custom-tariff/",
+    "name": "BD Tariff",
+    "scope": "/",
     "display": "standalone",
-    "start_url": "https://autonic-ltd.github.io/bd-custom-tariff/",
-    "short_name": "Tariff",
+    "start_url": "https://bdtariff.com/",
+    "short_name": "BD Tariff",
     "theme_color": "#feffbb",
     "description": "Bangladesh Custom Tariff Search Engine",
     "orientation": "portrait",
@@ -26,16 +26,12 @@
             "sizes": "64x64"
         },
         {
-            "src": "favicon_128x128.ico",
-            "sizes": "128x128"
+            "src": "120-X-120.png",
+            "sizes": "120x120 128x128"
         },
         {
-            "src": "favicon_256x256.ico",
-            "sizes": "256x256"
-        },
-        {
-            "src": "logo_512x512.png",
-            "sizes": "512x512"
+            "src": "512-X-512.png",
+            "sizes": "256x256 512x512"
         }
     ]
 }
